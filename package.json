@@ -29,9 +29,8 @@
     "dependencies": {
     },
     "peerDependencies": {
-        "react": ">=16.13.1",
-        "react-native": ">=0.63.2",
-        "react-native-windows": ">=0.63.3"
+        "react": ">=17.13.1",
+        "react-native": ">=0.63.2"
     },
     "peerDependenciesMeta": {
         "react-native-windows": {
